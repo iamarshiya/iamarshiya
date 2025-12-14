@@ -47,11 +47,8 @@ I’m a **passionate React Developer & AI/ML Enthusiast** who loves building **i
 ---
 
 ## 📫 Contact
-
-- 📧 Email: **[Your Email Here]**
-- 🔗 LinkedIn: **[Your LinkedIn Link Here]**
-- 🌐 Portfolio: **[Your Portfolio Link Here]**
-
+- 🔗 LinkedIn: **[[Your LinkedIn Link Here](https://www.linkedin.com/in/arshiyaattar/)]**
+  
 ---
 
 ## 💡 Fun Facts
