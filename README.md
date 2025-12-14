@@ -47,7 +47,7 @@ I’m a **passionate React Developer & AI/ML Enthusiast** who loves building **i
 ---
 
 ## 📫 Contact
-- 🔗 LinkedIn: **https://www.linkedin.com/in/arshiyaattar/**
+- 🔗 LinkedIn: **[[Arshiya Attar](https://www.linkedin.com/in/arshiyaattar/)]**
   
 ---
 
